@@ -1,0 +1,45 @@
+index,name,ticker,region,country,gics_sector,_asof_datetime
+0,Global X MSCI China Financials ETF,CHIX,EM,CN,40,2023-05-01
+1,Global X MSCI China Energy ETF,CHIE,EM,CN,10,2023-05-01
+2,Global X MSCI China Materials ETF,CHIM,EM,CN,15,2023-05-01
+3,Global X MSCI China Industrials ETF,CHII,EM,CN,20,2023-05-01
+4,Global X MSCI China Consumer Discretionary ETF,CHIQ,EM,CN,25,2023-05-01
+5,Global X MSCI China Information Technology ETF,CHIK,EM,CN,45,2023-05-01
+6,Global X MSCI China Health Care ETF,CHIH,EM,CN,35,2023-05-01
+7,Global X MSCI China Consumer Staples ETF,CHIS,EM,CN,30,2023-05-01
+8,Global X MSCI China Utilities ETF,CHIU,EM,CN,55,2023-05-01
+9,Global X MSCI China Real Estate ETF,CHIR,EM,CN,60,2023-05-01
+10,Global X MSCI China Communication Services ETF,CHIC,EM,CN,50,2023-05-01
+11,SPDR MSCI Europe Communication Services UCITS ETF,TELE.L,EUROPE,,50,2023-05-01
+12,SPDR MSCI Europe Consumer Discretionary UCITS ETF,CDIS.L,EUROPE,,25,2023-05-01
+13,SPDR MSCI Europe Consumer Staples UCITS ETF,CSTP.L,EUROPE,,30,2023-05-01
+14,SPDR MSCI Europe Energy UCITS ETF,ENGY.L,EUROPE,,10,2023-05-01
+15,SPDR MSCI Europe Financials UCITS ETF,FNCL.L,EUROPE,,40,2023-05-01
+16,SPDR MSCI Europe Health Care UCITS ETF,HLTH.L,EUROPE,,35,2023-05-01
+17,SPDR MSCI Europe Industrials UCITS ETF,NDUS.L,EUROPE,,20,2023-05-01
+18,SPDR MSCI Europe Technology UCITS ETF,ITEC.L,EUROPE,,45,2023-05-01
+19,SPDR MSCI Europe Utilities UCITS ETF,UTIL.L,EUROPE,,55,2023-05-01
+20,SPDR MSCI Europe Materials UCITS ETF,MTRL.L,EUROPE,,15,2023-05-01
+21,Consumer Discretionary Select Sector SPDR Fund,XLY,US,US,25,2023-05-01
+22,Communication Services Select Sector SPDR Fund,XLC,US,US,50,2023-05-01
+23,Energy Select Sector SPDR Fund,XLE,US,US,10,2023-05-01
+24,Financial Select Sector SPDR Fund,XLF,US,US,40,2023-05-01
+25,Health Care Select Sector SPDR Fund,XLV,US,US,35,2023-05-01
+26,Industrial Select Sector SPDR Fund,XLI,US,US,20,2023-05-01
+27,Materials Select Sector SPDR Fund,XLB,US,US,15,2023-05-01
+28,Technology Select Sector SPDR Fund,XLK,US,US,45,2023-05-01
+29,Utilities Select Sector SPDR Fund,XLU,US,US,55,2023-05-01
+30,Real Estate Select Sector SPDR Fund,XLRE,US,US,60,2023-05-01
+31,Consumer Staples Select Sector SPDR Fund,XLP,US,US,30,2023-05-01
+32,iShares Global Financials ETF,IXG,DEV,,40,2023-05-01
+33,iShares Global Energy ETF,IXC,DEV,,10,2023-05-01
+34,iShares Global Materials ETF,MXI,DEV,,15,2023-05-01
+35,iShares Global Industrials ETF,EXI,DEV,,20,2023-05-01
+36,iShares Global Consumer Discretionary ETF,RXI,DEV,,25,2023-05-01
+37,iShares Global Information Technology ETF,IXN,DEV,,45,2023-05-01
+38,iShares Global Health Care ETF,IXJ,DEV,,35,2023-05-01
+39,iShares Global Consumer Staples ETF,KXI,DEV,,30,2023-05-01
+40,iShares Global Utilities ETF,JXI,DEV,,55,2023-05-01
+41,iShares Global Real Estate ETF,REET,DEV,,60,2023-05-01
+42,iShares Global Communication Services ETF,IXP,DEV,,50,2023-05-01
+43,iShares Global Real Estate ETF,REET,EUROPE,,60,2023-05-01

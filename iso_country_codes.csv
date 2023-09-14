@@ -1,0 +1,250 @@
+index,country,alpha_2_code,alpha_3_code,numeric,country_common,_asof_datetime
+0,Afghanistan,AF,AFG,4,Afghanistan,2023-05-01
+1,Åland Islands,AX,ALA,248,Aland Islands,2023-05-01
+2,Albania,AL,ALB,8,Albania,2023-05-01
+3,Algeria,DZ,DZA,12,Algeria,2023-05-01
+4,American Samoa,AS,ASM,16,American Samoa,2023-05-01
+5,Andorra,AD,AND,20,Andorra,2023-05-01
+6,Angola,AO,AGO,24,Angola,2023-05-01
+7,Anguilla,AI,AIA,660,Anguilla,2023-05-01
+8,Antarctica,AQ,ATA,10,Antarctica,2023-05-01
+9,Antigua and Barbuda,AG,ATG,28,Antigua and Barbuda,2023-05-01
+10,Argentina,AR,ARG,32,Argentina,2023-05-01
+11,Armenia,AM,ARM,51,Armenia,2023-05-01
+12,Aruba,AW,ABW,533,Aruba,2023-05-01
+13,Australia,AU,AUS,36,Australia,2023-05-01
+14,Austria,AT,AUT,40,Austria,2023-05-01
+15,Azerbaijan,AZ,AZE,31,Azerbaijan,2023-05-01
+16,Bahamas (the),BS,BHS,44,Bahamas ,2023-05-01
+17,Bahrain,BH,BHR,48,Bahrain,2023-05-01
+18,Bangladesh,BD,BGD,50,Bangladesh,2023-05-01
+19,Barbados,BB,BRB,52,Barbados,2023-05-01
+20,Belarus,BY,BLR,112,Belarus,2023-05-01
+21,Belgium,BE,BEL,56,Belgium,2023-05-01
+22,Belize,BZ,BLZ,84,Belize,2023-05-01
+23,Benin,BJ,BEN,204,Benin,2023-05-01
+24,Bermuda,BM,BMU,60,Bermuda,2023-05-01
+25,Bhutan,BT,BTN,64,Bhutan,2023-05-01
+26,Bolivia (Plurinational State of),BO,BOL,68,Bolivia ,2023-05-01
+27,"Bonaire, Sint Eustatius and Saba",BQ,BES,535,"Bonaire, Sint Eustatius and Saba",2023-05-01
+28,Bosnia and Herzegovina,BA,BIH,70,Bosnia and Herzegovina,2023-05-01
+29,Botswana,BW,BWA,72,Botswana,2023-05-01
+30,Bouvet Island,BV,BVT,74,Bouvet Island,2023-05-01
+31,Brazil,BR,BRA,76,Brazil,2023-05-01
+32,British Indian Ocean Territory (the),IO,IOT,86,British Indian Ocean Territory ,2023-05-01
+33,Brunei Darussalam,BN,BRN,96,Brunei Darussalam,2023-05-01
+34,Bulgaria,BG,BGR,100,Bulgaria,2023-05-01
+35,Burkina Faso,BF,BFA,854,Burkina Faso,2023-05-01
+36,Burundi,BI,BDI,108,Burundi,2023-05-01
+37,Cabo Verde,CV,CPV,132,Cabo Verde,2023-05-01
+38,Cambodia,KH,KHM,116,Cambodia,2023-05-01
+39,Cameroon,CM,CMR,120,Cameroon,2023-05-01
+40,Canada,CA,CAN,124,Canada,2023-05-01
+41,Cayman Islands (the),KY,CYM,136,Cayman Islands ,2023-05-01
+42,Central African Republic (the),CF,CAF,140,Central African Republic ,2023-05-01
+43,Chad,TD,TCD,148,Chad,2023-05-01
+44,Chile,CL,CHL,152,Chile,2023-05-01
+45,China,CN,CHN,156,China,2023-05-01
+46,Christmas Island,CX,CXR,162,Christmas Island,2023-05-01
+47,Cocos (Keeling) Islands (the),CC,CCK,166,Cocos  Islands ,2023-05-01
+48,Colombia,CO,COL,170,Colombia,2023-05-01
+49,Comoros (the),KM,COM,174,Comoros ,2023-05-01
+50,Congo (the Democratic Republic of the),CD,COD,180,Democratic Republic of the Congo,2023-05-01
+51,Congo (the),CG,COG,178,Republic of the Congo,2023-05-01
+52,Cook Islands (the),CK,COK,184,Cook Islands ,2023-05-01
+53,Costa Rica,CR,CRI,188,Costa Rica,2023-05-01
+54,Côte d'Ivoire,CI,CIV,384,Cote d'Ivoire,2023-05-01
+55,Croatia,HR,HRV,191,Croatia,2023-05-01
+56,Cuba,CU,CUB,192,Cuba,2023-05-01
+57,Curaçao,CW,CUW,531,Curacao,2023-05-01
+58,Cyprus,CY,CYP,196,Cyprus,2023-05-01
+59,Czechia,CZ,CZE,203,Czech Republic,2023-05-01
+60,Denmark,DK,DNK,208,Denmark,2023-05-01
+61,Djibouti,DJ,DJI,262,Djibouti,2023-05-01
+62,Dominica,DM,DMA,212,Dominica,2023-05-01
+63,Dominican Republic (the),DO,DOM,214,Dominican Republic ,2023-05-01
+64,Ecuador,EC,ECU,218,Ecuador,2023-05-01
+65,Egypt,EG,EGY,818,Egypt,2023-05-01
+66,El Salvador,SV,SLV,222,El Salvador,2023-05-01
+67,Equatorial Guinea,GQ,GNQ,226,Equatorial Guinea,2023-05-01
+68,Eritrea,ER,ERI,232,Eritrea,2023-05-01
+69,Estonia,EE,EST,233,Estonia,2023-05-01
+70,Eswatini,SZ,SWZ,748,Eswatini,2023-05-01
+71,Ethiopia,ET,ETH,231,Ethiopia,2023-05-01
+72,Falkland Islands (the) [Malvinas],FK,FLK,238,Falkland Islands,2023-05-01
+73,Faroe Islands (the),FO,FRO,234,Faroe Islands ,2023-05-01
+74,Fiji,FJ,FJI,242,Fiji,2023-05-01
+75,Finland,FI,FIN,246,Finland,2023-05-01
+76,France,FR,FRA,250,France,2023-05-01
+77,French Guiana,GF,GUF,254,French Guiana,2023-05-01
+78,French Polynesia,PF,PYF,258,French Polynesia,2023-05-01
+79,French Southern Territories (the),TF,ATF,260,French Southern Territories ,2023-05-01
+80,Gabon,GA,GAB,266,Gabon,2023-05-01
+81,Gambia (the),GM,GMB,270,Gambia ,2023-05-01
+82,Georgia,GE,GEO,268,Georgia,2023-05-01
+83,Germany,DE,DEU,276,Germany,2023-05-01
+84,Ghana,GH,GHA,288,Ghana,2023-05-01
+85,Gibraltar,GI,GIB,292,Gibraltar,2023-05-01
+86,Greece,GR,GRC,300,Greece,2023-05-01
+87,Greenland,GL,GRL,304,Greenland,2023-05-01
+88,Grenada,GD,GRD,308,Grenada,2023-05-01
+89,Guadeloupe,GP,GLP,312,Guadeloupe,2023-05-01
+90,Guam,GU,GUM,316,Guam,2023-05-01
+91,Guatemala,GT,GTM,320,Guatemala,2023-05-01
+92,Guernsey,GG,GGY,831,Guernsey,2023-05-01
+93,Guinea,GN,GIN,324,Guinea,2023-05-01
+94,Guinea-Bissau,GW,GNB,624,Guinea-Bissau,2023-05-01
+95,Guyana,GY,GUY,328,Guyana,2023-05-01
+96,Haiti,HT,HTI,332,Haiti,2023-05-01
+97,Heard Island and McDonald Islands,HM,HMD,334,Heard Island and McDonald Islands,2023-05-01
+98,Holy See (the),VA,VAT,336,Holy See ,2023-05-01
+99,Honduras,HN,HND,340,Honduras,2023-05-01
+100,Hong Kong,HK,HKG,344,Hong Kong,2023-05-01
+101,Hungary,HU,HUN,348,Hungary,2023-05-01
+102,Iceland,IS,ISL,352,Iceland,2023-05-01
+103,India,IN,IND,356,India,2023-05-01
+104,Indonesia,ID,IDN,360,Indonesia,2023-05-01
+105,Iran (Islamic Republic of),IR,IRN,364,Iran,2023-05-01
+106,Iraq,IQ,IRQ,368,Iraq,2023-05-01
+107,Ireland,IE,IRL,372,Ireland,2023-05-01
+108,Isle of Man,IM,IMN,833,Isle of Man,2023-05-01
+109,Israel,IL,ISR,376,Israel,2023-05-01
+110,Italy,IT,ITA,380,Italy,2023-05-01
+111,Jamaica,JM,JAM,388,Jamaica,2023-05-01
+112,Japan,JP,JPN,392,Japan,2023-05-01
+113,Jersey,JE,JEY,832,Jersey,2023-05-01
+114,Jordan,JO,JOR,400,Jordan,2023-05-01
+115,Kazakhstan,KZ,KAZ,398,Kazakhstan,2023-05-01
+116,Kenya,KE,KEN,404,Kenya,2023-05-01
+117,Kiribati,KI,KIR,296,Kiribati,2023-05-01
+118,Korea (the Democratic People's Republic of),KP,PRK,408,North Korea,2023-05-01
+119,Korea (the Republic of),KR,KOR,410,South Korea,2023-05-01
+120,Kuwait,KW,KWT,414,Kuwait,2023-05-01
+121,Kyrgyzstan,KG,KGZ,417,Kyrgyzstan,2023-05-01
+122,Lao People's Democratic Republic (the),LA,LAO,418,Laos,2023-05-01
+123,Latvia,LV,LVA,428,Latvia,2023-05-01
+124,Lebanon,LB,LBN,422,Lebanon,2023-05-01
+125,Lesotho,LS,LSO,426,Lesotho,2023-05-01
+126,Liberia,LR,LBR,430,Liberia,2023-05-01
+127,Libya,LY,LBY,434,Libya,2023-05-01
+128,Liechtenstein,LI,LIE,438,Liechtenstein,2023-05-01
+129,Lithuania,LT,LTU,440,Lithuania,2023-05-01
+130,Luxembourg,LU,LUX,442,Luxembourg,2023-05-01
+131,Macao,MO,MAC,446,Macao,2023-05-01
+132,Republic of North Macedonia,MK,MKD,807,Republic of North Macedonia,2023-05-01
+133,Madagascar,MG,MDG,450,Madagascar,2023-05-01
+134,Malawi,MW,MWI,454,Malawi,2023-05-01
+135,Malaysia,MY,MYS,458,Malaysia,2023-05-01
+136,Maldives,MV,MDV,462,Maldives,2023-05-01
+137,Mali,ML,MLI,466,Mali,2023-05-01
+138,Malta,MT,MLT,470,Malta,2023-05-01
+139,Marshall Islands (the),MH,MHL,584,Marshall Islands ,2023-05-01
+140,Martinique,MQ,MTQ,474,Martinique,2023-05-01
+141,Mauritania,MR,MRT,478,Mauritania,2023-05-01
+142,Mauritius,MU,MUS,480,Mauritius,2023-05-01
+143,Mayotte,YT,MYT,175,Mayotte,2023-05-01
+144,Mexico,MX,MEX,484,Mexico,2023-05-01
+145,Micronesia (Federated States of),FM,FSM,583,Micronesia ,2023-05-01
+146,Moldova (the Republic of),MD,MDA,498,Moldova,2023-05-01
+147,Monaco,MC,MCO,492,Monaco,2023-05-01
+148,Mongolia,MN,MNG,496,Mongolia,2023-05-01
+149,Montenegro,ME,MNE,499,Montenegro,2023-05-01
+150,Montserrat,MS,MSR,500,Montserrat,2023-05-01
+151,Morocco,MA,MAR,504,Morocco,2023-05-01
+152,Mozambique,MZ,MOZ,508,Mozambique,2023-05-01
+153,Myanmar,MM,MMR,104,Myanmar,2023-05-01
+154,Namibia,,NAM,516,Namibia,2023-05-01
+155,Nauru,NR,NRU,520,Nauru,2023-05-01
+156,Nepal,NP,NPL,524,Nepal,2023-05-01
+157,Netherlands (the),NL,NLD,528,Netherlands ,2023-05-01
+158,New Caledonia,NC,NCL,540,New Caledonia,2023-05-01
+159,New Zealand,NZ,NZL,554,New Zealand,2023-05-01
+160,Nicaragua,NI,NIC,558,Nicaragua,2023-05-01
+161,Niger (the),NE,NER,562,Niger ,2023-05-01
+162,Nigeria,NG,NGA,566,Nigeria,2023-05-01
+163,Niue,NU,NIU,570,Niue,2023-05-01
+164,Norfolk Island,NF,NFK,574,Norfolk Island,2023-05-01
+165,Northern Mariana Islands (the),MP,MNP,580,Northern Mariana Islands ,2023-05-01
+166,Norway,NO,NOR,578,Norway,2023-05-01
+167,Oman,OM,OMN,512,Oman,2023-05-01
+168,Pakistan,PK,PAK,586,Pakistan,2023-05-01
+169,Palau,PW,PLW,585,Palau,2023-05-01
+170,"Palestine, State of",PS,PSE,275,"Palestine, State of",2023-05-01
+171,Panama,PA,PAN,591,Panama,2023-05-01
+172,Papua New Guinea,PG,PNG,598,Papua New Guinea,2023-05-01
+173,Paraguay,PY,PRY,600,Paraguay,2023-05-01
+174,Peru,PE,PER,604,Peru,2023-05-01
+175,Philippines (the),PH,PHL,608,Philippines ,2023-05-01
+176,Pitcairn,PN,PCN,612,Pitcairn,2023-05-01
+177,Poland,PL,POL,616,Poland,2023-05-01
+178,Portugal,PT,PRT,620,Portugal,2023-05-01
+179,Puerto Rico,PR,PRI,630,Puerto Rico,2023-05-01
+180,Qatar,QA,QAT,634,Qatar,2023-05-01
+181,Réunion,RE,REU,638,Reunion,2023-05-01
+182,Romania,RO,ROU,642,Romania,2023-05-01
+183,Russian Federation (the),RU,RUS,643,Russia,2023-05-01
+184,Rwanda,RW,RWA,646,Rwanda,2023-05-01
+185,Saint Barthélemy,BL,BLM,652,Saint Barthelemy,2023-05-01
+186,"Saint Helena, Ascension and Tristan da Cunha",SH,SHN,654,"Saint Helena, Ascension and Tristan da Cunha",2023-05-01
+187,Saint Kitts and Nevis,KN,KNA,659,Saint Kitts and Nevis,2023-05-01
+188,Saint Lucia,LC,LCA,662,Saint Lucia,2023-05-01
+189,Saint Martin (French part),MF,MAF,663,Saint Martin ,2023-05-01
+190,Saint Pierre and Miquelon,PM,SPM,666,Saint Pierre and Miquelon,2023-05-01
+191,Saint Vincent and the Grenadines,VC,VCT,670,Saint Vincent and the Grenadines,2023-05-01
+192,Samoa,WS,WSM,882,Samoa,2023-05-01
+193,San Marino,SM,SMR,674,San Marino,2023-05-01
+194,Sao Tome and Principe,ST,STP,678,Sao Tome and Principe,2023-05-01
+195,Saudi Arabia,SA,SAU,682,Saudi Arabia,2023-05-01
+196,Senegal,SN,SEN,686,Senegal,2023-05-01
+197,Serbia,RS,SRB,688,Serbia,2023-05-01
+198,Seychelles,SC,SYC,690,Seychelles,2023-05-01
+199,Sierra Leone,SL,SLE,694,Sierra Leone,2023-05-01
+200,Singapore,SG,SGP,702,Singapore,2023-05-01
+201,Sint Maarten (Dutch part),SX,SXM,534,Sint Maarten ,2023-05-01
+202,Slovakia,SK,SVK,703,Slovakia,2023-05-01
+203,Slovenia,SI,SVN,705,Slovenia,2023-05-01
+204,Solomon Islands,SB,SLB,90,Solomon Islands,2023-05-01
+205,Somalia,SO,SOM,706,Somalia,2023-05-01
+206,South Africa,ZA,ZAF,710,South Africa,2023-05-01
+207,South Georgia and the South Sandwich Islands,GS,SGS,239,South Georgia and the South Sandwich Islands,2023-05-01
+208,South Sudan,SS,SSD,728,South Sudan,2023-05-01
+209,Spain,ES,ESP,724,Spain,2023-05-01
+210,Sri Lanka,LK,LKA,144,Sri Lanka,2023-05-01
+211,Sudan (the),SD,SDN,729,Sudan ,2023-05-01
+212,Suriname,SR,SUR,740,Suriname,2023-05-01
+213,Svalbard and Jan Mayen,SJ,SJM,744,Svalbard and Jan Mayen,2023-05-01
+214,Sweden,SE,SWE,752,Sweden,2023-05-01
+215,Switzerland,CH,CHE,756,Switzerland,2023-05-01
+216,Syrian Arab Republic,SY,SYR,760,Syria,2023-05-01
+217,Taiwan (Province of China),TW,TWN,158,Taiwan,2023-05-01
+218,Tajikistan,TJ,TJK,762,Tajikistan,2023-05-01
+219,"Tanzania, United Republic of",TZ,TZA,834,Tanzania,2023-05-01
+220,Thailand,TH,THA,764,Thailand,2023-05-01
+221,Timor-Leste,TL,TLS,626,Timor-Leste,2023-05-01
+222,Togo,TG,TGO,768,Togo,2023-05-01
+223,Tokelau,TK,TKL,772,Tokelau,2023-05-01
+224,Tonga,TO,TON,776,Tonga,2023-05-01
+225,Trinidad and Tobago,TT,TTO,780,Trinidad and Tobago,2023-05-01
+226,Tunisia,TN,TUN,788,Tunisia,2023-05-01
+227,Turkey,TR,TUR,792,Turkey,2023-05-01
+228,Turkmenistan,TM,TKM,795,Turkmenistan,2023-05-01
+229,Turks and Caicos Islands (the),TC,TCA,796,Turks and Caicos Islands ,2023-05-01
+230,Tuvalu,TV,TUV,798,Tuvalu,2023-05-01
+231,Uganda,UG,UGA,800,Uganda,2023-05-01
+232,Ukraine,UA,UKR,804,Ukraine,2023-05-01
+233,United Arab Emirates (the),AE,ARE,784,United Arab Emirates ,2023-05-01
+234,United Kingdom of Great Britain and Northern Ireland (the),GB,GBR,826,United Kingdom,2023-05-01
+235,United States Minor Outlying Islands (the),UM,UMI,581,United States Minor Outlying Islands ,2023-05-01
+236,United States of America (the),US,USA,840,United States,2023-05-01
+237,Uruguay,UY,URY,858,Uruguay,2023-05-01
+238,Uzbekistan,UZ,UZB,860,Uzbekistan,2023-05-01
+239,Vanuatu,VU,VUT,548,Vanuatu,2023-05-01
+240,Venezuela (Bolivarian Republic of),VE,VEN,862,Venezuela,2023-05-01
+241,Viet Nam,VN,VNM,704,Vietnam,2023-05-01
+242,Virgin Islands (British),VG,VGB,92,British Virgin Islands,2023-05-01
+243,Virgin Islands (U.S.),VI,VIR,850,United States Virgin Islands,2023-05-01
+244,Wallis and Futuna,WF,WLF,876,Wallis and Futuna,2023-05-01
+245,Western Sahara,EH,ESH,732,Western Sahara,2023-05-01
+246,Yemen,YE,YEM,887,Yemen,2023-05-01
+247,Zambia,ZM,ZMB,894,Zambia,2023-05-01
+248,Zimbabwe,ZW,ZWE,716,Zimbabwe,2023-05-01

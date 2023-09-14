@@ -1,0 +1,174 @@
+index,subsector_code,industry,supersector,sector,subsector,_asof_datetime
+0,10101010,Technology,Technology,Software and Computer Services,Computer Services,2023-05-01
+1,10101015,Technology,Technology,Software and Computer Services,Software,2023-05-01
+2,10101020,Technology,Technology,Software and Computer Services,Consumer Digital Services,2023-05-01
+3,10102010,Technology,Technology,Technology Hardware and Equipment,Semiconductors,2023-05-01
+4,10102015,Technology,Technology,Technology Hardware and Equipment,Electronic Components,2023-05-01
+5,10102020,Technology,Technology,Technology Hardware and Equipment,Production Technology Equipment,2023-05-01
+6,10102030,Technology,Technology,Technology Hardware and Equipment,Computer Hardware,2023-05-01
+7,10102035,Technology,Technology,Technology Hardware and Equipment,Electronic Office Equipment,2023-05-01
+8,15101010,Telecommunications,Telecommunications,Telecommunications Equipment,Telecommunications Equipment,2023-05-01
+9,15102010,Telecommunications,Telecommunications,Telecommunications Service Providers,Cable Television Services,2023-05-01
+10,15102015,Telecommunications,Telecommunications,Telecommunications Service Providers,Telecommunications Services,2023-05-01
+11,20101010,Health Care,Health Care,Health Care Providers,Health Care Facilities,2023-05-01
+12,20101020,Health Care,Health Care,Health Care Providers,Health Care Management Services,2023-05-01
+13,20101025,Health Care,Health Care,Health Care Providers,Health Care Services,2023-05-01
+14,20101030,Health Care,Health Care,Health Care Providers,Health Care: Misc.,2023-05-01
+15,20102010,Health Care,Health Care,Medical Equipment and Services,Medical Equipment,2023-05-01
+16,20102015,Health Care,Health Care,Medical Equipment and Services,Medical Supplies,2023-05-01
+17,20102020,Health Care,Health Care,Medical Equipment and Services,Medical Services,2023-05-01
+18,20103010,Health Care,Health Care,Pharmaceuticals and Biotechnology,Biotechnology,2023-05-01
+19,20103015,Health Care,Health Care,Pharmaceuticals and Biotechnology,Pharmaceuticals,2023-05-01
+20,20103020,Health Care,Health Care,Pharmaceuticals and Biotechnology,Cannabis Producers,2023-05-01
+21,30101010,Financials,Banks,Banks,Banks,2023-05-01
+22,30201020,Financials,Financial Services,Finance and Credit Services,Consumer Lending,2023-05-01
+23,30201025,Financials,Financial Services,Finance and Credit Services,Mortgage Finance,2023-05-01
+24,30201030,Financials,Financial Services,Finance and Credit Services,Financial Data Providers,2023-05-01
+25,30202000,Financials,Financial Services,Investment Banking and Brokerage Services,Diversified Financial Services,2023-05-01
+26,30202010,Financials,Financial Services,Investment Banking and Brokerage Services,Asset Managers and Custodians,2023-05-01
+27,30202015,Financials,Financial Services,Investment Banking and Brokerage Services,Investment Services,2023-05-01
+28,30203000,Financials,Financial Services,Mortgage Real Estate Investment Trusts,Mortgage REITs: Diversified,2023-05-01
+29,30203010,Financials,Financial Services,Mortgage Real Estate Investment Trusts,Mortgage REITs: Commercial,2023-05-01
+30,30203020,Financials,Financial Services,Mortgage Real Estate Investment Trusts,Mortgage REITs: Residential,2023-05-01
+31,30204000,Financials,Financial Services,Closed End Investments,Closed End Investments,2023-05-01
+32,30205000,Financials,Financial Services,Open End and Miscellaneous Investment Vehicles,Open End and Miscellaneous Investment Vehicles,2023-05-01
+33,30301010,Financials,Insurance,Life Insurance,Life Insurance,2023-05-01
+34,30302010,Financials,Insurance,Non-life Insurance,Full Line Insurance,2023-05-01
+35,30302015,Financials,Insurance,Non-life Insurance,Insurance Brokers,2023-05-01
+36,30302020,Financials,Insurance,Non-life Insurance,Reinsurance,2023-05-01
+37,30302025,Financials,Insurance,Non-life Insurance,Property and Casualty Insurance,2023-05-01
+38,35101010,Real Estate,Real Estate,Real Estate Investment and Services,Real Estate Holding and Development,2023-05-01
+39,35101015,Real Estate,Real Estate,Real Estate Investment and Services,Real Estate Services,2023-05-01
+40,35102000,Real Estate,Real Estate,Real Estate Investment Trusts,Diversified REITs,2023-05-01
+41,35102010,Real Estate,Real Estate,Real Estate Investment Trusts,Health Care REITs,2023-05-01
+42,35102015,Real Estate,Real Estate,Real Estate Investment Trusts,Hotel and Lodging REITs,2023-05-01
+43,35102020,Real Estate,Real Estate,Real Estate Investment Trusts,Industrial REITs,2023-05-01
+44,35102025,Real Estate,Real Estate,Real Estate Investment Trusts,Infrastructure REITs,2023-05-01
+45,35102030,Real Estate,Real Estate,Real Estate Investment Trusts,Office REITs,2023-05-01
+46,35102040,Real Estate,Real Estate,Real Estate Investment Trusts,Residential REITs,2023-05-01
+47,35102045,Real Estate,Real Estate,Real Estate Investment Trusts,Retail REITs,2023-05-01
+48,35102050,Real Estate,Real Estate,Real Estate Investment Trusts,Storage REITs,2023-05-01
+49,35102060,Real Estate,Real Estate,Real Estate Investment Trusts,Timber REITs,2023-05-01
+50,35102070,Real Estate,Real Estate,Real Estate Investment Trusts,Other Specialty REITs,2023-05-01
+51,40101010,Consumer Discretionary,Automobiles and Parts,Automobiles and Parts,Auto Services,2023-05-01
+52,40101015,Consumer Discretionary,Automobiles and Parts,Automobiles and Parts,Tires,2023-05-01
+53,40101020,Consumer Discretionary,Automobiles and Parts,Automobiles and Parts,Automobiles,2023-05-01
+54,40101025,Consumer Discretionary,Automobiles and Parts,Automobiles and Parts,Auto Parts,2023-05-01
+55,40201010,Consumer Discretionary,Consumer Products and Services,Consumer Services,Education Services,2023-05-01
+56,40201020,Consumer Discretionary,Consumer Products and Services,Consumer Services,Funeral Parlors and Cemetery,2023-05-01
+57,40201030,Consumer Discretionary,Consumer Products and Services,Consumer Services,Printing and Copying Services,2023-05-01
+58,40201040,Consumer Discretionary,Consumer Products and Services,Consumer Services,Rental and Leasing Services: Consumer,2023-05-01
+59,40201050,Consumer Discretionary,Consumer Products and Services,Consumer Services,Storage Facilities,2023-05-01
+60,40201060,Consumer Discretionary,Consumer Products and Services,Consumer Services,Vending and Catering Service,2023-05-01
+61,40201070,Consumer Discretionary,Consumer Products and Services,Consumer Services,Consumer Services: Misc.,2023-05-01
+62,40202010,Consumer Discretionary,Consumer Products and Services,Household Goods and Home Construction,Home Construction,2023-05-01
+63,40202015,Consumer Discretionary,Consumer Products and Services,Household Goods and Home Construction,Household Furnishings,2023-05-01
+64,40202020,Consumer Discretionary,Consumer Products and Services,Household Goods and Home Construction,Household Appliance,2023-05-01
+65,40202025,Consumer Discretionary,Consumer Products and Services,Household Goods and Home Construction,Household Equipment and Products,2023-05-01
+66,40203010,Consumer Discretionary,Consumer Products and Services,Leisure Goods,Consumer Electronics,2023-05-01
+67,40203040,Consumer Discretionary,Consumer Products and Services,Leisure Goods,Electronic Entertainment,2023-05-01
+68,40203045,Consumer Discretionary,Consumer Products and Services,Leisure Goods,Toys,2023-05-01
+69,40203050,Consumer Discretionary,Consumer Products and Services,Leisure Goods,Recreational Products,2023-05-01
+70,40203055,Consumer Discretionary,Consumer Products and Services,Leisure Goods,Recreational Vehicles and Boats,2023-05-01
+71,40203060,Consumer Discretionary,Consumer Products and Services,Leisure Goods,Photography,2023-05-01
+72,40204020,Consumer Discretionary,Consumer Products and Services,Personal Goods,Clothing and Accessories,2023-05-01
+73,40204025,Consumer Discretionary,Consumer Products and Services,Personal Goods,Footwear,2023-05-01
+74,40204030,Consumer Discretionary,Consumer Products and Services,Personal Goods,Luxury Items,2023-05-01
+75,40204035,Consumer Discretionary,Consumer Products and Services,Personal Goods,Cosmetics,2023-05-01
+76,40301010,Consumer Discretionary,Media,Media,Entertainment,2023-05-01
+77,40301020,Consumer Discretionary,Media,Media,Media Agencies,2023-05-01
+78,40301030,Consumer Discretionary,Media,Media,Publishing,2023-05-01
+79,40301035,Consumer Discretionary,Media,Media,Radio and TV Broadcasters,2023-05-01
+80,40401010,Consumer Discretionary,Retail,Retailers,Diversified Retailers,2023-05-01
+81,40401020,Consumer Discretionary,Retail,Retailers,Apparel Retailers,2023-05-01
+82,40401025,Consumer Discretionary,Retail,Retailers,Home Improvement Retailers,2023-05-01
+83,40401030,Consumer Discretionary,Retail,Retailers,Specialty Retailers,2023-05-01
+84,40501010,Consumer Discretionary,Travel and Leisure,Travel and Leisure,Airlines,2023-05-01
+85,40501015,Consumer Discretionary,Travel and Leisure,Travel and Leisure,Travel and Tourism,2023-05-01
+86,40501020,Consumer Discretionary,Travel and Leisure,Travel and Leisure,Casinos and Gambling,2023-05-01
+87,40501025,Consumer Discretionary,Travel and Leisure,Travel and Leisure,Hotels and Motels,2023-05-01
+88,40501030,Consumer Discretionary,Travel and Leisure,Travel and Leisure,Recreational Services,2023-05-01
+89,40501040,Consumer Discretionary,Travel and Leisure,Travel and Leisure,Restaurants and Bars,2023-05-01
+90,45101010,Consumer Staples,"Food, Beverage and Tobacco",Beverages,Brewers,2023-05-01
+91,45101015,Consumer Staples,"Food, Beverage and Tobacco",Beverages,Distillers and Vintners,2023-05-01
+92,45101020,Consumer Staples,"Food, Beverage and Tobacco",Beverages,Soft Drinks,2023-05-01
+93,45102010,Consumer Staples,"Food, Beverage and Tobacco",Food Producers,"Farming, Fishing, Ranching and Plantations",2023-05-01
+94,45102020,Consumer Staples,"Food, Beverage and Tobacco",Food Producers,Food Products,2023-05-01
+95,45102030,Consumer Staples,"Food, Beverage and Tobacco",Food Producers,Fruit and Grain Processing,2023-05-01
+96,45102035,Consumer Staples,"Food, Beverage and Tobacco",Food Producers,Sugar,2023-05-01
+97,45103010,Consumer Staples,"Food, Beverage and Tobacco",Tobacco,Tobacco,2023-05-01
+98,45201010,Consumer Staples,"Personal Care, Drug and Grocery Stores","Personal Care, Drug and Grocery Stores",Food Retailers and Wholesalers,2023-05-01
+99,45201015,Consumer Staples,"Personal Care, Drug and Grocery Stores","Personal Care, Drug and Grocery Stores",Drug Retailers,2023-05-01
+100,45201020,Consumer Staples,"Personal Care, Drug and Grocery Stores","Personal Care, Drug and Grocery Stores",Personal Products,2023-05-01
+101,45201030,Consumer Staples,"Personal Care, Drug and Grocery Stores","Personal Care, Drug and Grocery Stores",Nondurable Household Products,2023-05-01
+102,45201040,Consumer Staples,"Personal Care, Drug and Grocery Stores","Personal Care, Drug and Grocery Stores",Miscellaneous Consumer Staple Goods,2023-05-01
+103,50101010,Industrials,Construction and Materials,Construction and Materials,Construction,2023-05-01
+104,50101015,Industrials,Construction and Materials,Construction and Materials,Engineering and Contracting Services,2023-05-01
+105,50101020,Industrials,Construction and Materials,Construction and Materials,"Building, Roofing/Wallboard and Plumbing",2023-05-01
+106,50101025,Industrials,Construction and Materials,Construction and Materials,Building: Climate Control,2023-05-01
+107,50101030,Industrials,Construction and Materials,Construction and Materials,Cement,2023-05-01
+108,50101035,Industrials,Construction and Materials,Construction and Materials,Building Materials: Other,2023-05-01
+109,50201010,Industrials,Industrial Goods and Services,Aerospace and Defense,Aerospace,2023-05-01
+110,50201020,Industrials,Industrial Goods and Services,Aerospace and Defense,Defense,2023-05-01
+111,50202010,Industrials,Industrial Goods and Services,Electronic and Electrical Equipment,Electrical Components,2023-05-01
+112,50202020,Industrials,Industrial Goods and Services,Electronic and Electrical Equipment,Electronic Equipment: Control and Filter,2023-05-01
+113,50202025,Industrials,Industrial Goods and Services,Electronic and Electrical Equipment,Electronic Equipment: Gauges and Meters,2023-05-01
+114,50202030,Industrials,Industrial Goods and Services,Electronic and Electrical Equipment,Electronic Equipment: Pollution Control,2023-05-01
+115,50202040,Industrials,Industrial Goods and Services,Electronic and Electrical Equipment,Electronic Equipment: Other,2023-05-01
+116,50203000,Industrials,Industrial Goods and Services,General Industrials,Diversified Industrials,2023-05-01
+117,50203010,Industrials,Industrial Goods and Services,General Industrials,Paints and Coatings,2023-05-01
+118,50203015,Industrials,Industrial Goods and Services,General Industrials,Plastics,2023-05-01
+119,50203020,Industrials,Industrial Goods and Services,General Industrials,Glass,2023-05-01
+120,50203030,Industrials,Industrial Goods and Services,General Industrials,Containers and Packaging,2023-05-01
+121,50204000,Industrials,Industrial Goods and Services,Industrial Engineering,Machinery: Industrial,2023-05-01
+122,50204010,Industrials,Industrial Goods and Services,Industrial Engineering,Machinery: Agricultural,2023-05-01
+123,50204020,Industrials,Industrial Goods and Services,Industrial Engineering,Machinery: Construction and Handling,2023-05-01
+124,50204030,Industrials,Industrial Goods and Services,Industrial Engineering,Machinery: Engines,2023-05-01
+125,50204040,Industrials,Industrial Goods and Services,Industrial Engineering,Machinery: Tools,2023-05-01
+126,50204050,Industrials,Industrial Goods and Services,Industrial Engineering,Machinery: Specialty,2023-05-01
+127,50205010,Industrials,Industrial Goods and Services,Industrial Support Services,Industrial Suppliers,2023-05-01
+128,50205015,Industrials,Industrial Goods and Services,Industrial Support Services,Transaction Processing Services,2023-05-01
+129,50205020,Industrials,Industrial Goods and Services,Industrial Support Services,Professional Business Support Services,2023-05-01
+130,50205025,Industrials,Industrial Goods and Services,Industrial Support Services,Business Training and Employment Agencies,2023-05-01
+131,50205030,Industrials,Industrial Goods and Services,Industrial Support Services,Forms and Bulk Printing Services,2023-05-01
+132,50205040,Industrials,Industrial Goods and Services,Industrial Support Services,Security Services,2023-05-01
+133,50206010,Industrials,Industrial Goods and Services,Industrial Transportation,Trucking,2023-05-01
+134,50206015,Industrials,Industrial Goods and Services,Industrial Transportation,Commercial Vehicles and Parts,2023-05-01
+135,50206020,Industrials,Industrial Goods and Services,Industrial Transportation,Railroads,2023-05-01
+136,50206025,Industrials,Industrial Goods and Services,Industrial Transportation,Railroad Equipment,2023-05-01
+137,50206030,Industrials,Industrial Goods and Services,Industrial Transportation,Marine Transportation,2023-05-01
+138,50206040,Industrials,Industrial Goods and Services,Industrial Transportation,Delivery Services,2023-05-01
+139,50206050,Industrials,Industrial Goods and Services,Industrial Transportation,Commercial Vehicle-Equipment Leasing,2023-05-01
+140,50206060,Industrials,Industrial Goods and Services,Industrial Transportation,Transportation Services,2023-05-01
+141,55101000,Basic Materials,Basic Resources,Industrial Materials,Diversified Materials,2023-05-01
+142,55101010,Basic Materials,Basic Resources,Industrial Materials,Forestry,2023-05-01
+143,55101015,Basic Materials,Basic Resources,Industrial Materials,Paper,2023-05-01
+144,55101020,Basic Materials,Basic Resources,Industrial Materials,Textile Products,2023-05-01
+145,55102000,Basic Materials,Basic Resources,Industrial Metals and Mining,General Mining,2023-05-01
+146,55102010,Basic Materials,Basic Resources,Industrial Metals and Mining,Iron and Steel,2023-05-01
+147,55102015,Basic Materials,Basic Resources,Industrial Metals and Mining,Metal Fabricating,2023-05-01
+148,55102035,Basic Materials,Basic Resources,Industrial Metals and Mining,Aluminum,2023-05-01
+149,55102040,Basic Materials,Basic Resources,Industrial Metals and Mining,Copper,2023-05-01
+150,55102050,Basic Materials,Basic Resources,Industrial Metals and Mining,Nonferrous Metals,2023-05-01
+151,55103020,Basic Materials,Basic Resources,Precious Metals and Mining,Diamonds and Gemstones,2023-05-01
+152,55103025,Basic Materials,Basic Resources,Precious Metals and Mining,Gold Mining,2023-05-01
+153,55103030,Basic Materials,Basic Resources,Precious Metals and Mining,Platinum and Precious Metals,2023-05-01
+154,55201000,Basic Materials,Chemicals,Chemicals,Chemicals: Diversified,2023-05-01
+155,55201010,Basic Materials,Chemicals,Chemicals,Chemicals and Synthetic Fibers,2023-05-01
+156,55201015,Basic Materials,Chemicals,Chemicals,Fertilizers,2023-05-01
+157,55201020,Basic Materials,Chemicals,Chemicals,Specialty Chemicals,2023-05-01
+158,60101000,Energy,Energy,Oil Gas and Coal,Integrated Oil and Gas,2023-05-01
+159,60101010,Energy,Energy,Oil Gas and Coal,Oil: Crude Producers,2023-05-01
+160,60101015,Energy,Energy,Oil Gas and Coal,Offshore Drilling and Other Services,2023-05-01
+161,60101020,Energy,Energy,Oil Gas and Coal,Oil Refining and Marketing,2023-05-01
+162,60101030,Energy,Energy,Oil Gas and Coal,Oil Equipment and Services,2023-05-01
+163,60101035,Energy,Energy,Oil Gas and Coal,Pipelines,2023-05-01
+164,60101040,Energy,Energy,Oil Gas and Coal,Coal,2023-05-01
+165,60102010,Energy,Energy,Alternative Energy,Alternative Fuels,2023-05-01
+166,60102020,Energy,Energy,Alternative Energy,Renewable Energy Equipment,2023-05-01
+167,65101010,Utilities,Utilities,Electricity,Alternative Electricity,2023-05-01
+168,65101015,Utilities,Utilities,Electricity,Conventional Electricity,2023-05-01
+169,65102000,Utilities,Utilities,"Gas, Water and Multi-utilities",Multi-Utilities,2023-05-01
+170,65102020,Utilities,Utilities,"Gas, Water and Multi-utilities",Gas Distribution,2023-05-01
+171,65102030,Utilities,Utilities,"Gas, Water and Multi-utilities",Water,2023-05-01
+172,65103035,Utilities,Utilities,Waste and Disposal Services,Waste and Disposal Services,2023-05-01
